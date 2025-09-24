@@ -1,4 +1,4 @@
-# Meu-Perfil-Git
+# Meu-Perfil-GitHub
 
 Oi, me chamo Pedro, seja bem vindo ao meu perfil GitHub. 🎉
 
